@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Blaha Mohamed Yacine</h1>
+<h1 align="center">Hi , I'm Blaha Mohamed Yacine</h1>
 <h3 align="center">software engineer student.</h3>
 
 - 💬 Ask me about **Node.js,PHP,SQL**
