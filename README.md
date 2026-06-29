@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
-    Hi 👋, I'm Blaha Mohamed Yacine
+    Hi , I'm Blaha Mohamed Yacine
   </h1>
   <h3>software engineer student.</h3>
   
